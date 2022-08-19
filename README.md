@@ -9,3 +9,5 @@ In, this project I learned how can I read data using api.
 3- I'm putting data in an array and create the 20 objects by them.
 
 4- I created a getData function to read data from Digimon constructor.
+
+Live url : https://jafer-aldakhily.github.io/Digimon-api/
